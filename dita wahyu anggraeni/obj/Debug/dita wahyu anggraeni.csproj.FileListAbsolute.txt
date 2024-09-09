@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\dita wahyu anggraeni\bin\Debug\dita wahyu anggraeni.exe.config
+C:\Users\User\source\repos\dita wahyu anggraeni\bin\Debug\dita wahyu anggraeni.exe
+C:\Users\User\source\repos\dita wahyu anggraeni\bin\Debug\dita wahyu anggraeni.pdb
+C:\Users\User\source\repos\dita wahyu anggraeni\obj\Debug\dita wahyu anggraeni.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\dita wahyu anggraeni\obj\Debug\dita wahyu anggraeni.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dita wahyu anggraeni\obj\Debug\dita wahyu anggraeni.exe
+C:\Users\User\source\repos\dita wahyu anggraeni\obj\Debug\dita wahyu anggraeni.pdb
